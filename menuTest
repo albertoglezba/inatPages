@@ -1,0 +1,54 @@
+<div class="column span-14">
+
+<ul class="natmx">
+         <li><a href="/pages/observaciones">1. Observaciones</a></li>
+         <li><a href="/pages/especies">2. Especies</a></li>
+         <li><a href="/pages/proyectos">3. Proyectos</a></li>
+         <li><a href="/pages/lugares">4. Lugares</a></li>
+         <li><a href="/pages/gente">5. Gente</a></li>
+         <li><a href="/pages/presentaciones">Tutoriales</a></li>
+         <li><a href="/pages/noticias">Noticias</a></li>
+         <li><a href="/pages/casosdeexito">Casos de éxito</a></li>
+         <li><a href="/pages/conceptos">Conceptos</a></li>
+         <li><a href="/pages/mapas">Mapas</a></li>
+         <li><a href="/pages/fotos">Fotos</a></li>
+         <li><a href="/pages/nombrescomunes">Nombres comunes</a></li>
+         <li><a href="/pages/guíadegerentes">Guía para gerentes</a></li>
+         <li><a href="/pages/guíadecuradores">Guía para curadores</a></li>
+         <li><a href="/pages/ayudacuradores">Red de curadores</a></li>
+         <li><a href="/pages/ayudatutores">Red de tutores</a></li>
+         <li><a href="/pages/respuestas">Respuestas frecuentes</a></li>
+         <li><a href="/pages/fichas">Formato de ficha</a></li>
+         <li><a href="/pages/datos">Solicitud de datos</a></li>
+         <li><a href="/pages/citar">Cómo citar</a></li>
+         <li><a href="/pages/estadisticas">Estadísticas</a></li>
+         <li><a href="/pages/acerca">Acerca de NaturaLista</a></li>
+</ul>
+
+</div>
+<hr>
+<style>
+ul.natmx {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+.natmx li {
+  float: left;
+}
+
+.natmx li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.natmx li a:hover {
+  background-color: #111111;
+}
+</style>
